@@ -19,5 +19,5 @@ test('get started link', async ({ page }) => {
 
   // Checking trigger
   //await page.goto
-  // await expect
+  
 });
